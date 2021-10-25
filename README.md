@@ -10,14 +10,11 @@ open canva account and then follow [these screens](https://www.canva.com/design/
 
 <img width="100%" alt="image" src="https://user-images.githubusercontent.com/770012/138694313-d8458a5e-c0d5-4565-8fe3-fdec62d2472e.png">
 
-> TL;DR: click through and fill those:
-> - Details
->   - App name
-> - Extensions
->   - Development URL
->   - Input file types
+# Setup local development
 
-## Install:
+clone this repo and cd into to run the examples.
+
+## Install `https-localhost`:
 Conifgures self-signed certificate so might need sudo. Use this:
 ```
 brew install nss
@@ -27,14 +24,14 @@ Or read the docs :
 https://github.com/daquinoaldo/https-localhost
 
 
-## Run
+## Run `serve`
 Port 5001 is used in the examples. 
 Configure `PORT=5001` as env variable or set immediate before `serve` command:
 ```
 PORT=5001 serve
 ```
 
-Or cd into directory of your choosing and then `serve` or run local path:
+`cd` into directory of your choosing and then `serve` or run as a local path:
 
 ``
 PORT=5001 serve 01-quickstart
