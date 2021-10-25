@@ -13,8 +13,6 @@ Open account at [canva developer site](https://www.canva.com/developers/) and th
 
 # Setup local development
 
-clone this repo and cd into to run the examples.
-
 ## Install `https-localhost`:
 Conifgures self-signed certificate so might need sudo. Use this:
 ```
@@ -26,7 +24,8 @@ https://github.com/daquinoaldo/https-localhost
 
 
 ## Run `serve`
-Port 5001 is used in the examples. 
+Port 5001 is used in the examples, clone this repo and cd into to run the examples.
+
 Configure `PORT=5001` as env variable or set immediate before `serve` command:
 ```
 PORT=5001 serve
