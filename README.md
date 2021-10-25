@@ -1,8 +1,9 @@
 # canva example apps
 
-This is a collection of simple apps built on top of (canva developer API)[https://www.canva.com/developers/]
-with some simple setup. example code is taken from [canva docs](https://docs.developer.canva.com/apps/extension-points/editing-extensions/quick-start)
+This is a collection of simple apps built on top of [canva developer API](https://www.canva.com/developers/)
+with some simple setup. 
 
+Example code is taken from [canva docs](https://docs.developer.canva.com/apps/extension-points/editing-extensions/quick-start).
 
 # Setup canva extension
 open canva account and then follow [these screens](https://www.canva.com/design/DAEtn1sg6kM/Cj4knsw_k3UVXkU3YLE1Iw/view?utm_content=DAEtn1sg6kM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
