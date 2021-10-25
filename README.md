@@ -1,7 +1,7 @@
 # canva example apps
 
-This is a collection of simple apps built on top of canva developer API:
-https://www.canva.com/developers/
+This is a collection of simple apps built on top of (canva developer API)[https://www.canva.com/developers/]
+with some simple setup. example code is taken from [canva docs](https://docs.developer.canva.com/apps/extension-points/editing-extensions/quick-start)
 
 
 # Setup canva extension
@@ -28,5 +28,6 @@ PORT=5001 serve
 Or cd into directory of your choosing and then `serve` or run local path:
 
 ``
-PORT=5001 serve 02-html-only 
+PORT=5001 serve 01-quickstart
 ``
+
