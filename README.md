@@ -5,8 +5,7 @@ https://www.canva.com/developers/
 
 
 # Setup canva extension
-open canva account and then follow these screens:
-https://www.canva.com/design/DAEtn1sg6kM/Cj4knsw_k3UVXkU3YLE1Iw/view?utm_content=DAEtn1sg6kM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+open canva account and then follow [these screens](https://www.canva.com/design/DAEtn1sg6kM/Cj4knsw_k3UVXkU3YLE1Iw/view?utm_content=DAEtn1sg6kM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## TL;DR Fill those:
 - Details
