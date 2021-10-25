@@ -7,7 +7,7 @@ Example code is taken from [canva docs](https://docs.developer.canva.com/apps/ex
 
 # Setup canva extension
 
-Open account at [canva developer site]https://www.canva.com/developers/) and then follow [these screens](https://www.canva.com/design/DAEtn1sg6kM/Cj4knsw_k3UVXkU3YLE1Iw/view?utm_content=DAEtn1sg6kM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+Open account at [canva developer site](https://www.canva.com/developers/) and then follow [these screens](https://www.canva.com/design/DAEtn1sg6kM/Cj4knsw_k3UVXkU3YLE1Iw/view?utm_content=DAEtn1sg6kM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <img width="100%" alt="image" src="https://user-images.githubusercontent.com/770012/138694313-d8458a5e-c0d5-4565-8fe3-fdec62d2472e.png">
 
