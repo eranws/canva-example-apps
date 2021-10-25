@@ -24,7 +24,6 @@ https://github.com/daquinoaldo/https-localhost
 
 
 ## Run `serve`
-Port 5001 is used in the examples, clone this repo and cd into to run the examples.
 
 Configure `PORT=5001` as env variable or set immediate before `serve` command:
 ```
@@ -36,4 +35,6 @@ PORT=5001 serve
 ``
 PORT=5001 serve 01-quickstart
 ``
+
+> Port 5001 is used in the examples. clone this repo and cd into to run the examples as-is.
 
