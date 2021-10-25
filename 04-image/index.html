@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" style="width: 100%; height: 100%; overflow: hidden">
+  <body style="width: 100%; height: 100%; margin: 0">
+    <script type="text/javascript">
+      // Get the URL and version number of Editing Extensions API library
+      const params = new URLSearchParams(window.location.search);
+      const baseUrl = params.get("libBase");
+      const version = params.get("lib");
+      // Construct the URL of the Editing Extensions API library
+      const libUrl = baseUrl + version + ".js";
+
+      // Load the Editing Extensions API library
+      const lib = document.createElement("script");
+      lib.src = libUrl;
+      lib.onload = () => {
+        // Load the JavaScript bundle for the extension
+        const extension = document.createElement("script");
+        extension.src = "bundle.js";
+        document.body.appendChild(extension);
+      };
+      document.head.appendChild(lib);
+    </script>
+    <img width="100%" alt="image" src="canva.svg" style="position: absolute" />
+  </body>
+</html>
